@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppForm</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_estatura">Estatura</string>
+    <string name="hint_fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="hint_pais">País</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="hint_notas">Notas</string>
+    <string name="dialog_title">DATOS OBTENIDOS</string>
+    <string name="alert_confirmar">CONFIRMAR</string>
+    <string name="dialog_cancelar">CANCELAR</string>
+    <string name="help_require">Obligatorio</string>
+    <string name="help_min">Minimo 50cm</string>
+</resources>
